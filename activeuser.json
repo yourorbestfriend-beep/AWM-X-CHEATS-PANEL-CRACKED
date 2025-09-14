@@ -3,14 +3,14 @@
         "device_id": "0f13e27dc55e4e63",
         "username": "AWM",
         "password": "CHEATS",
-        "expirydate": "31-12-2026",
+        "expirydate": "01-01-2026",
         "Allowoffline": true
     },
     {
         "device_id": "DEVICE2",
         "username": "AWM",
         "password": "CHEATS",
-        "expirydate": "15-06-2027",
+        "expirydate": "15-02-2026",
         "Allowoffline": false
     }
 ]
